@@ -9,7 +9,7 @@ I am confident in my ability to excel in any role that requires data analysis, e
 - Language : English, Japanese, Burmese
 ## Projects
 
-### Project : Predicting Falcon 9 First Stage Launching for Cost-Efficient Lunches and Competitive Bidding
+### Project : [Predicting Falcon 9 First Stage Launching for Cost-Efficient Lunches and Competitive Bidding](https://github.com/PHOOPHOOMONMYATTHU/Predicting-Falcon-9-First-Stage-Launching-for-Cost-Efficient-Lunches-and-Competitive-Bidding.git)
 
 - Description: We will create the  prediction model  whether the Falcon 9 first stage will land successfully or not. SpaceX offers Falcon 9 rocket launches on its website at a cost of 62 million dollars, which is significantly lower than the cost of other providers that charge upward of 165 million dollars per launch. The reason behind this is that SpaceX can reuse the first stage of the rocket. Hence, predicting the successful landing of the first stage is crucial as it helps determine the cost of a launch. This information can be used by other companies who want to bid against SpaceX for a rocket launch.
 - Technologies: Data Collection, Data Wrangling, Data Visualization Using SQL, Matplotlib and Seaborn, Interactive Visualization Using Folium, Dash, Model Building, and Model Assessment
